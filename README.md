@@ -1,2 +1,2 @@
 # abddullahrezai.github.io
-webbutvecklings ubildning 2023
+webbutvecklings utbildning 2023
